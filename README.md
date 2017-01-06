@@ -1,4 +1,4 @@
-# Simpleton-Shell
+# Simpleton Shell
 
 Design a customized Unix shell interface by writing a C program.
 
